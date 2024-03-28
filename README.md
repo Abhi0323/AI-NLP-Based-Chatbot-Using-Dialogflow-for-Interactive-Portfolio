@@ -6,6 +6,8 @@ In an era where instant communication is not just appreciated but expected, I em
 
 ![ezgif com-optimize](https://github.com/Abhi0323/Innovative-Portfolio-Chatbot-Using-NLP/assets/112967999/07f16bc7-7c82-465e-9e2b-4898b1024d0c)
 
+Explore more about me by asking any questions to my chat bot here at my portfolio: https://abhi0323.github.io/Abhishek-Chandragiri-Portfolio/
+
 This project was born from a desire to make information discovery on my website not just interactive, but insightful and engaging. Recognizing the diverse inquiries that visitors might have, from simple queries about my background to more complex questions regarding my projects and credentials, I meticulously trained a Dialogflow agent. This agent, equipped with a wide array of intents, serves as the backbone of a chatbot designed to deliver precise and meaningful responses.
 
 Crafting a Diverse Array of Intents
